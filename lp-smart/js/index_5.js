@@ -1,1 +1,0 @@
-(()=>{"use strict";document.addEventListener("DOMContentLoaded",(function(){var e=document.querySelector(".attrakt--header-banner");e&&document.body.insertBefore(e,document.body.firstChild)}))})();
